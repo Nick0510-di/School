@@ -1,0 +1,6 @@
+{
+  "name": "eLibrary",
+  "description": "Online digital library and student communication platform featuring an interactive reader, multi-language catalog (Uzbek, Russian, English), student messaging, and personal library management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
